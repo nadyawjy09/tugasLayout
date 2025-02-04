@@ -76,6 +76,7 @@
                 android:layout_height="40dp"
                 android:backgroundTint="#FFF"
                 android:text="Exit"
+                android:onClick="exitApp"
                 android:textColor="#FF0000"
                 android:textStyle="bold"
                 app:cornerRadius="10dp"
